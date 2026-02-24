@@ -1,22 +1,21 @@
 ## Hi there 👋
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Haisim Yasin 👋
 
-### Full-Stack Developer | [Your Current Role or Student Status]
+### Software Engineer | MSc. Data & Knowledge Engineering Student
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Tech, e.g., AI/ML, Rust]**
-- 💬 Ask me about **React, Node.js, and System Design**
-- 📫 Reach out to me at: **your.email@example.com**
+- 🔭 I’m currently working on **AI-powered diagnostic pipelines (LangGraph) and scalable full-stack architectures (Django DRF + React TypeScript)**
+- 🌱 I’m currently diving deeper into **Vector Databases (pgvector/Chroma), Advanced AI Guardrails, and Cloud System Design**
+- 💬 Ask me about **Python, Django, Backend Architecture, and AI Agent Integration**
+- 📫 Reach out to me at: **haisimyasin@outlook.com** or connect on [LinkedIn](https://www.linkedin.com/in/haisim-yasin/)
 
 ---
 
 ### 🛠 Tech Stack
 
-<!-- These icons are powered by skill-icons. Customize the 'i' parameter with your tech -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,aws,postgres,mongodb,docker,git,linux&perline=6" />
   </a>
 </p>
 
@@ -24,21 +23,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- Replace YOUR_USERNAME below to show your real activity -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app" alt="Trophies" />
-</p>
-
----
-
-### 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io" alt="LinkedIn" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io" alt="Twitter" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=haisim-y&show_icons=true&theme=radical" alt="Haisim's GitHub Stats" />
 </p>
