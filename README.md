@@ -1,28 +1,33 @@
-## Hi there 👋
+## Hi there, I'm Haisim Yasin 👋
 
-# Hi there, I'm Haisim Yasin 👋
+### Software Engineer & AI Specialist | MSc. Data & Knowledge Engineering Student
 
-### Software Engineer | MSc. Data & Knowledge Engineering Student
+I am a full-stack software engineer with a strong specialization in Artificial Intelligence and scalable backend architecture. I bridge the gap between traditional software development and cutting-edge AI by building intelligent, automated pipelines and enterprise-grade web applications. 
 
-- 🔭 I’m currently working on **AI-powered diagnostic pipelines (LangGraph) and scalable full-stack architectures (Django DRF + React TypeScript)**
-- 🌱 I’m currently diving deeper into **Vector Databases (pgvector/Chroma), Advanced AI Guardrails, and Cloud System Design**
-- 💬 Ask me about **Python, Django, Backend Architecture, and AI Agent Integration**
-- 📫 Reach out to me at: **haisimyasin@outlook.com** or connect on [LinkedIn](https://www.linkedin.com/in/haisim-yasin/)
+### 🚀 Core Expertise
 
----
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,aws,postgres,mongodb,docker,git,linux&perline=6" />
-  </a>
-</p>
+* **Advanced AI Engineering:** I specialize in building AI agents and chatbots using LangGraph and LangChain. My expertise includes context engineering, advanced prompt engineering, fine-tuning Large Language Models (LLMs), and developing robust AI guardrails that outperform Nemo & Llama benchmarks to block jailbreak attempts.
+* **Scalable Backend Architecture:** I develop robust backend services and RESTful APIs utilizing Python, Django REST Framework (DRF), and FastAPI[cite: 14, 39]. [cite_start]I also architect complex, asynchronous data pipelines using Celery and queueing systems to handle heavy processing tasks.
+* **Full-Stack & Cloud Deployment:** I build modular applications by integrating React TypeScript frontends with scalable backends. I actively manage cloud deployments on platforms like AWS and Hetzner, while establishing automated CI/CD pipelines via GitLab and GitHub Actions to streamline the development lifecycle.
+* **Data Engineering & Automation:** I have a solid foundation in data engineering, utilizing tools like PySpark and AWS Glue to transform large datasets, alongside building automated OCR pipelines that drastically reduce manual processing time.
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haisim-y&show_icons=true&theme=radical" alt="Haisim's GitHub Stats" />
-</p>
+**Languages & Frameworks:**
+* Python, Django, Django REST Framework (DRF), FastAPI, React, TypeScript 
+
+**Artificial Intelligence & Data Science:**
+* LangChain/LangGraph, OpenAI/Claude Models, RAG Systems, Vector Databases (pgvector/Chroma), TensorFlow, Scikit-learn, Pandas, Transformers.
+
+**Cloud, DevOps & Databases:**
+* AWS (Cognito, Lambda, S3), Docker, CI/CD Pipelines, PostgreSQL, MongoDB, MySQL, Redis
+
+---
+
+### 🔭 Currently Working On
+* Developing an automated, AI-powered Root Cause Analysis (RCA) pipeline for hardware-in-the-loop systems that uses asynchronous task processing and a continuous feedback loop.
+* Refactoring legacy codebases into highly modular, scalable full-stack solutions.
+
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/haisim-yasin/) | **Email:** haisimyasin@outlook.com 
