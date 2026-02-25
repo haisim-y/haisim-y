@@ -4,6 +4,10 @@
 
 I am a software engineer with a strong specialization in Artificial Intelligence and scalable backend architecture. I bridge the gap between traditional software development and cutting-edge AI by building intelligent, automated pipelines and enterprise-grade web applications. 
 
+<div align="center">
+  <img src="matrix.gif" width="100%" alt="Matrix code GIF" />
+</div>
+
 ### Core Expertise
 
 * **Advanced AI Engineering:** I specialize in building AI agents and chatbots using LangGraph and LangChain. My expertise includes context engineering, advanced prompt engineering, fine-tuning Large Language Models (LLMs), and developing robust AI guardrails that outperform Nemo & Llama benchmarks to block jailbreak attempts.
