@@ -1,6 +1,6 @@
 ## Hi there, I'm Haisim Yasin 👋
 
-### Software Engineer & AI Specialist | MSc. Data & Knowledge Engineering Student
+### Software Engineer & AI Specialist
 
 I am a software engineer with a strong specialization in Artificial Intelligence and scalable backend architecture. I bridge the gap between traditional software development and cutting-edge AI by building intelligent, automated pipelines and enterprise-grade web applications. 
 
